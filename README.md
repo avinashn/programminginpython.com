@@ -1,2 +1,5 @@
-# programminginpython.com
-This repo consists code of all the programs discussed at programminginpython.com website.
+# <a href="http://Programminginpython.com/">programminginpython.com</a>
+This repo consists code of all the programs discussed at http://programminginpython.com/
+
+## List of all the programs
+<ul ><li><a href="http://programminginpython.com/python-program-check-palindrome/">Python program to check whether a number is Palindrome or not</a></li><li ><a  href="http://programminginpython.com/python-program-to-find-reverse-of-a-number/">Python program to find reverse of a number</a></li><li ><a  href="http://programminginpython.com/find-reverse-number-slice/">Python program to find reverse of a number using slice</a></li><li ><a  href="http://programminginpython.com/python-program-find-average-n-numbers/">Python program to find average of N numbers</a></li><li ><a  href="http://programminginpython.com/python-program-to-find-whether-a-number-is-even-or-odd/">Python Program to find whether an integer is even or odd number</a></li><li ><a  href="http://programminginpython.com/python-program-arithmetic-operations/">Python program for performing Arithmetic Operations</a></li><li ><a  href="http://programminginpython.com/python-lists-add-append-modify-remove-slice/">Python Lists – Add, Append, Modify, Remove, Slice</a></li></ul>
