@@ -2,6 +2,9 @@
 This repo consists code of all the programs discussed at http://programminginpython.com/
 ## List of all the programs
 <ul>
+   <li><a href="http://programminginpython.com/python-program-print-fibonacci-sequence/">Python program to print Fibonacci sequence</a></li>
+   <li><a href="http://programminginpython.com/intro-python-gui-labels-frames-buttons/">Introduction to Python GUI – Labels, Frames, Buttons</a></li>
+   <li><a href="http://programminginpython.com/python-program-find-factorial-number/">Python program to find Factorial of a given number</a></li>
    <li><a href="http://programminginpython.com/python-program-area-triangle-base-height/">Python program to find area of triangle when base and height are given</a></li>
    <li><a href="http://programminginpython.com/find-area-of-triangle/">Python program to find area of triangle when all the sides are given</a></li>
    <li><a href="http://programminginpython.com/python-program-find-number-prime-composite/">Python program to find a number is prime or composite</a></li>
