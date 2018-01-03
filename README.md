@@ -41,6 +41,7 @@ Programs on Functions</h4>
 <h4 class="post_h4">
 Programs on List</h4>
 <ul class="display-posts-listing">
+<li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/find-union-two-lists-python/">How to find Union of two lists in Python</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/separate-even-odd-numbers-lists/">Separate even and odd numbers in a list</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-merge-concatenate-two-lists/">Python program to merge / concatenate two lists</a></li>
@@ -62,4 +63,14 @@ Math Programs</h4>
 Programs on Tuple</h4>
 <ul class="display-posts-listing">
 <li class="listing-item"><a class="title" href="http://programminginpython.com/python-tuple-add-remove-slice-concatenate-reverse/">Python tuple operations – Add, Remove, Slice, Concat, Reverse</a></li>
+</ul>
+<h4 class="post_h4">
+Programs on Dictionaries</h4>
+<ul class="display-posts-listing">
+<li class="listing-item"><a class="title" href="http://programminginpython.com/python-dictionary-operations/">Python Dictionary and its operations</a></li>
+</ul>
+<h4 class="post_h4">
+Programs on Algorithms</h4>
+<ul class="display-posts-listing">
+<li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
 </ul>
