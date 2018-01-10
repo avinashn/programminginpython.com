@@ -34,6 +34,7 @@ GUI Programs</h4>
 <h4 class="post_h4">
 Programs on Functions</h4>
 <ul class="display-posts-listing">
+<li class="listing-item"><a class="title" href="http://programminginpython.com/binary-search-algorithm-python">Python program to implement Binary Search Algorithm</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/create-temperature-converter-app-python-gui-using-tkinter/">How to create a temperature converter app in python GUI using TKInter</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-print-fibonacci-sequence/">Python program to print Fibonacci sequence</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/biggest-smallest-3-numbers/">Python Program to find the Biggest and Smallest of 3 numbers</a></li>
@@ -41,6 +42,7 @@ Programs on Functions</h4>
 <h4 class="post_h4">
 Programs on List</h4>
 <ul class="display-posts-listing">
+<li class="listing-item"><a class="title" href="http://programminginpython.com/binary-search-algorithm-python">Python program to implement Binary Search Algorithm</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/find-union-two-lists-python/">How to find Union of two lists in Python</a></li>
 <li class="listing-item"><a class="title" href="http://programminginpython.com/separate-even-odd-numbers-lists/">Separate even and odd numbers in a list</a></li>
@@ -73,4 +75,5 @@ Programs on Dictionaries</h4>
 Programs on Algorithms</h4>
 <ul class="display-posts-listing">
 <li class="listing-item"><a class="title" href="http://programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
+<li class="listing-item"><a class="title" href="http://programminginpython.com/binary-search-algorithm-python">Python program to implement Binary Search Algorithm</a></li>
 </ul>
