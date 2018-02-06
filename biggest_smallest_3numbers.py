@@ -24,5 +24,6 @@ def smallest(num1, num2, num3):
         smallest_num = num3
     print("The smallest of the 3 numbers is : ", smallest_num)
 
+
 largest(number1, number2, number3)
 smallest(number1, number2, number3)

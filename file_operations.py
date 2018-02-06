@@ -31,5 +31,3 @@ file_append.close()
 
 # Delete a file
 os.remove("test.txt")
-
-

@@ -1,5 +1,3 @@
-
-
 __author__ = 'Avinash'
 
 import pymysql

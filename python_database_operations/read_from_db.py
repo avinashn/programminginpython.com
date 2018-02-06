@@ -1,4 +1,5 @@
 __author__ = 'Avinash'
+
 import pymysql
 
 # Open database connection
@@ -20,10 +21,10 @@ try:
         age = row[3]
         sex = row[4]
         # Now print fetched result
-        print("fname = %s, lname = %s, age = %d, sex = %s" % \
-        (fname, lname, age, sex, ))
-except:
-   print("Error: unable to fetch data")
+        print("fname = %s, lname = %s, age = %d, sex = %s" %
+              (fname, lname, age, sex, ))
+except pymysql.Error:
+    print("Error: unable to fetch data")
 
 # disconnect from server
 db.close()

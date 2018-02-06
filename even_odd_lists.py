@@ -3,7 +3,7 @@ __author__ = 'Avinash'
 numbers = []
 n = int(input("Enter number of elements: \t"))
 
-for i in range(1, 1+n):
+for i in range(1, 1 + n):
     allElements = int(input("Enter element: \t"))
     numbers.append(allElements)
 
@@ -18,4 +18,3 @@ for j in numbers:
 
 print("Even numbers list \t", even_lst)
 print("Odd numbers list \t", odd_lst)
-

@@ -14,9 +14,9 @@ try:
     cursor.execute(sql)
     # Commit your changes in the database
     db.commit()
-except:
-   # Rollback in case there is any error
-   db.rollback()
+except pymysql.error:
+    # Rollback in case there is any error
+    db.rollback()
 
 # disconnect from server
 db.close()

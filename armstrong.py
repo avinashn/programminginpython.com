@@ -13,7 +13,7 @@ try:
     if int(input_num) == arm_num:
         print(input_num, 'is an ARMSTRONG number')
     else:
-        print(input_num,  'is NOT an armstrong number')
+        print(input_num, 'is NOT an armstrong number')
 
 except ValueError:
     print("That's not a valid number, Try Again !")

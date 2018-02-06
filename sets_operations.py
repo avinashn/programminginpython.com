@@ -18,29 +18,29 @@ composite_numbers = set()
 
 # function which finds even and odd numbers
 def even_odd_sets(num):
-    if num % 2 == 0:
-        even_numbers.add(num)
-    else:
-        odd_numbers.add(num)
+  if num % 2 == 0:
+    even_numbers.add(num)
+  else:
+    odd_numbers.add(num)
 
 
 # function which finds prime and composite numbers
 def prime_composite_sets(num):
-    if num > 1:
-        for j in range(2, num):
-            if (num % j) == 0:
-                composite_numbers.add(num)
-                break
-        else:
-            prime_numbers.add(num)
+  if num > 1:
+    for j in range(2, num):
+      if (num % j) == 0:
+        composite_numbers.add(num)
+        break
+    else:
+      prime_numbers.add(num)
 
 
 for i in range(1, 11):
-    numbers.add(i)
+  numbers.add(i)
 
-    even_odd_sets(i)
+  even_odd_sets(i)
 
-    prime_composite_sets(i)
+  prime_composite_sets(i)
 
 
 print("\nNumbers Set: ", numbers)
@@ -65,7 +65,7 @@ print("Union of prime_numbers and composite_numbers:",
 
 # Difference of sets
 print("Difference between numbers and prime_numbers:",
-      numbers-prime_numbers)
+      numbers - prime_numbers)
 
 
 example = set(['test', 43, 'another', 120])
@@ -81,4 +81,3 @@ print(example)
 # Clear the set
 example.clear()
 print(example)
-

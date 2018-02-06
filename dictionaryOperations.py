@@ -7,7 +7,7 @@ my_info = {
     'Gender': 'Male',
     'Location': 'India',
     'Website': 'programminginpython.com'
-    }
+}
 
 # print dictionary
 print(my_info)
