@@ -1,8 +1,11 @@
 __author__ = 'Avinash'
+__author1__ = 'ramlaxman'
 
 lst = []
-num = int(input('How many numbers: '))
-for n in range(num):
-    numbers = int(input('Enter number '))
-    lst.append(numbers)
+total = int(input('Total numbers in List: '))
+
+for num in range(total):
+    num = int(input('Enter number '))
+    lst.append(num)
+
 print("Sum of elements in given list is :", sum(lst))
