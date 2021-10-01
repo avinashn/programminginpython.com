@@ -1,6 +1,6 @@
 __author__ = 'Avinash'
 
-from tkinter import *
+from Tkinter import *
 
 root = Tk()
 topFrame = Frame(root)
