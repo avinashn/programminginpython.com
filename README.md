@@ -1,100 +1,172 @@
-# <a href="https://Programminginpython.com/">programminginpython.com</a>
-This repo consists code of all the programs discussed at https://programminginpython.com/
-## List of all the programs
-<h4>Basic Programs</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/lcm-two-numbers-python-program/">Python Program to find the LCM of two numbers</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-find-digits-number/">Python program to find number of digits in a number</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-area-triangle-base-height/">Python program to find area of triangle (given base and height)</a></li>
-   <li><a href="https://www.programminginpython.com/find-area-of-triangle/">Python program to find area of a triangle ( given all sides )</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-find-number-prime-composite/">Python program to find a number is prime or composite</a></li>
-   <li><a href="https://www.programminginpython.com/find-square-root-using-sqrt/">Find square root of a number using sqrt() function</a></li>
-   <li><a href="https://www.programminginpython.com/find-square-root-number-exponential-operation/">Find square root of a number using exponential operation</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-calculate-sum-elements-list/">Python program to calculate the sum of elements in a list</a></li>
-   <li><a href="https://www.programminginpython.com/python-biggest-smallest-3-numbers-lists/">Python Program to find the Biggest and Smallest of 3 numbers using lists</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-largest-smallest-number-list/">Python program to find the largest and smallest number in a list</a></li>
-   <li><a href="https://www.programminginpython.com/biggest-smallest-3-numbers/">Python Program to find the Biggest and Smallest of 3 numbers</a></li>
-   <li><a href="https://www.programminginpython.com/python-check-armstrong-number/">Python Program to check Armstrong number or not</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-check-palindrome/">Python program to check whether a number is Palindrome or not</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-to-find-reverse-of-a-number/">Python program to find reverse of a number</a></li>
-   <li><a href="https://www.programminginpython.com/find-reverse-number-slice/">Python program to find reverse of a number using slice</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-find-average-n-numbers/">Python program to find average of N numbers</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-to-find-whether-a-number-is-even-or-odd/">Python Program to find whether an integer is even or odd number</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-arithmetic-operations/">Python program for performing Arithmetic Operations</a></li>
-   <li><a href="https://www.programminginpython.com/python-lists-add-append-modify-remove-slice/">Python Lists – Add, Append, Modify, Remove, Slice</a></li>
-</ul>
-<h4>GUI Programs</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/domain-to-ip-converter-python-gui-tkinter/">How to create a Domain to IP converter in Python GUI using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/layout-managers-python-gui-pack-grid-place/">Layout Managers in Python GUI – Pack, Grid and Place</a></li>
-   <li><a href="https://www.programminginpython.com/create-temperature-converter-app-python-gui-using-tkinter/">How to create a temperature converter app in python GUI using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/python-gui-calculator-using-tkinter/">A simple python GUI calculator using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/intro-python-gui-labels-frames-buttons/">Introduction to Python GUI – Labels, Frames, Buttons</a></li>
-</ul>
-<h4>Programs on Functions</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/print-pattern-letter-b-python/">Print letter pattern ‘B’ in python</a></li>
-   <li><a href="https://www.programminginpython.com/insertion-sort-algorithm-python/">Insertion Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/domain-to-ip-converter-python-gui-tkinter/">How to create a Domain to IP converter in Python GUI using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/merge-sort-algorithm-python/">Merge Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/selection-sort-algorithm-python/">Selection Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/bubble-sort-algorithm-python/">Bubble Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/set-operations-python/">Set Operations in Python</a></li>
-   <li><a href="https://www.programminginpython.com/binary-search-algorithm-python/">Python program to implement Binary Search Algorithm</a></li>
-   <li><a href="https://www.programminginpython.com/create-temperature-converter-app-python-gui-using-tkinter/">How to create a temperature converter app in python GUI using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/python-gui-calculator-using-tkinter/">A simple python GUI calculator using TKInter</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-print-fibonacci-sequence/">Python program to print Fibonacci sequence</a></li>
-   <li><a href="https://www.programminginpython.com/biggest-smallest-3-numbers/">Python Program to find the Biggest and Smallest of 3 numbers</a></li>
-</ul>
-<h4>Programs on List</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/quick-sort-algorithm-python/">QuickSort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/insertion-sort-algorithm-python/">Insertion Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/merge-sort-algorithm-python/">Merge Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/selection-sort-algorithm-python/">Selection Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/bubble-sort-algorithm-python/">Bubble Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/binary-search-algorithm-python/">Python program to implement Binary Search Algorithm</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
-   <li><a href="https://www.programminginpython.com/find-union-two-lists-python/">How to find Union of two lists in Python</a></li>
-   <li><a href="https://www.programminginpython.com/separate-even-odd-numbers-lists/">Separate even and odd numbers in a list</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-merge-concatenate-two-lists/">Python program to merge / concatenate two lists</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-calculate-sum-elements-list/">Python program to calculate the sum of elements in a list</a></li>
-   <li><a href="https://www.programminginpython.com/python-biggest-smallest-3-numbers-lists/">Python Program to find the Biggest and Smallest of 3 numbers using lists</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-largest-smallest-number-list/">Python program to find the largest and smallest number in a list</a></li>
-   <li><a href="https://www.programminginpython.com/python-lists-add-append-modify-remove-slice/">Python Lists – Add, Append, Modify, Remove, Slice</a></li>
-</ul>
-<h4>Math Programs</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/lcm-two-numbers-python-program/">Python Program to find the LCM of two numbers</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-print-fibonacci-sequence/">Python program to print Fibonacci sequence</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-find-factorial-number/">Python program to find Factorial of a given number</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-area-triangle-base-height/">Python program to find area of triangle (given base and height)</a></li>
-   <li><a href="https://www.programminginpython.com/find-area-of-triangle/">Python program to find area of a triangle ( given all sides )</a></li>
-   <li><a href="https://www.programminginpython.com/find-square-root-number-exponential-operation/">Find square root of a number using exponential operation</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-check-palindrome/">Python program to check whether a number is Palindrome or not</a></li>
-</ul>
-<h4>Programs on Tuple</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/python-tuple-add-remove-slice-concatenate-reverse/">Python tuple operations – Add, Remove, Slice, Concat, Reverse</a></li>
-</ul>
-<h4>Programs on Dictionaries</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/python-dictionary-operations/">Python Dictionary and its operations</a></li>
-</ul>
-<h4>Programs on Algorithms</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/quick-sort-algorithm-python/">QuickSort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/insertion-sort-algorithm-python/">Insertion Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/merge-sort-algorithm-python/">Merge Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/selection-sort-algorithm-python/">Selection Sort Algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/bubble-sort-algorithm-python/">Bubble Sort algorithm in Python</a></li>
-   <li><a href="https://www.programminginpython.com/binary-search-algorithm-python/">Python program to implement Binary Search Algorithm</a></li>
-   <li><a href="https://www.programminginpython.com/python-program-linear-search-algorithm/">Python program to implement Linear Search Algorithm</a></li>
-</ul>
-<h4>Programs on Patterns</h4>
-<ul>
-   <li><a href="https://www.programminginpython.com/print-pattern-letter-b-python/">Print letter pattern ‘B’ in python</a></li>
-   <li><a href="https://www.programminginpython.com/print-letter-a-pattern-python/">Print pattern ‘A’ in Python</a></li>
-   <li><a href="https://www.programminginpython.com/pyramid-pattern-python/">Pyramid Pattern in Python</a></li>
-   <li><a href="https://www.programminginpython.com/floyds-triangle-pattern-python/">Floyd’s Triangle Pattern in Python</a></li>
-</ul>
+# <a href="https://www.Programminginpython.com/">Programming In Python</a>
+This repo consists code of all the programs and posts discussed at https://www.programminginpython.com/
+## List of all the posts
+
+## Algorithms
+- [Selection Sort Algorithm in Python](https://www.programminginpython.com/selection-sort-algorithm-python/)
+- [Merge Sort Algorithm in Python](https://www.programminginpython.com/merge-sort-algorithm-python/)
+- [Insertion Sort algorithm in Python](https://www.programminginpython.com/insertion-sort-algorithm-python/)
+- [QuickSort Algorithm in Python](https://www.programminginpython.com/quicksort-algorithm-python/)
+- [Python program to implement Linear Search Algorithm](https://www.programminginpython.com/python-program-linear-search-algorithm/)
+- [Python program to implement Binary Search Algorithm](https://www.programminginpython.com/binary-search-algorithm-python/)
+- [Bubble Sort algorithm in Python](https://www.programminginpython.com/bubble-sort-algorithm-python/)
+- [Heap Sort Algorithm in Python](https://www.programminginpython.com/heap-sort-algorithm-python/)
+## Basic Programs
+- [Find square root of a number using sqrt() function](https://www.programminginpython.com/find-square-root-using-sqrt-function/)
+- [Find square root of a number using exponential operation](https://www.programminginpython.com/find-square-root-number-exponential-operation/)
+- [Python Program to separate even and odd numbers in a list](https://www.programminginpython.com/python-program-separate-even-odd-numbers-lists/)
+- [Count vowels in a string – Python Program](https://www.programminginpython.com/count-vowels-string-python-program/)
+- [Python Program to find the LCM of two numbers](https://www.programminginpython.com/lcm-two-numbers-python-program/)
+- [Python Dictionary and its operations](https://www.programminginpython.com/python-dictionary-operations/)
+- [Python program to merge or concatenate two lists](https://www.programminginpython.com/python-program-merge-concatenate-two-lists/)
+- [Python program to find number of digits in a number](https://www.programminginpython.com/python-program-find-digits-number/)
+- [Python tuple operations – Add, Remove, Slice, Concat, Reverse](https://www.programminginpython.com/python-tuple-operations-add-remove-slice-concat-reverse/)
+- [Python program to find Factorial of a given number](https://www.programminginpython.com/python-program-find-factorial-number/)
+- [Python program to find area of triangle (given base and height)](https://www.programminginpython.com/python-program-area-triangle-base-height/)
+- [Python program to find area of a triangle (given all sides)](https://www.programminginpython.com/python-program-find-area-of-triangle-all-sides/)
+- [Python program to find a number is prime or composite](https://www.programminginpython.com/python-program-find-number-prime-composite/)
+- [Python program for performing Arithmetic Operations](https://www.programminginpython.com/python-program-arithmetic-operations/)
+- [Python Program to find whether an integer is even or odd number](https://www.programminginpython.com/even-odd-number-python/)
+- [Python program to find average of N numbers](https://www.programminginpython.com/python-program-find-average-n-numbers/)
+- [Python program to calculate the sum of elements in a list](https://www.programminginpython.com/python-program-calculate-sum-elements-list/)
+- [Find the Biggest and Smallest of 3 numbers using lists in Python](https://www.programminginpython.com/python-biggest-smallest-3-numbers-lists/)
+- [Python program to find the largest and smallest number in a list](https://www.programminginpython.com/python-program-largest-smallest-number-list/)
+- [Python Program to find the Biggest and Smallest of 3 numbers](https://www.programminginpython.com/biggest-smallest-3-numbers/)
+- [Python Program to check Armstrong number or not](https://www.programminginpython.com/python-check-armstrong-number/)
+- [Python program to check whether a number is Palindrome or not](https://www.programminginpython.com/python-program-check-palindrome/)
+- [Python program to find reverse of a number](https://www.programminginpython.com/python-program-find-reverse-number/)
+- [Python program to find reverse of a number using slice](https://www.programminginpython.com/python-program-find-reverse-number-slice/)
+- [Python Lists – Add, Append, Modify, Remove, Slice](https://www.programminginpython.com/python-lists-add-append-modify-remove-slice/)
+## Cryptography
+## Data Structures
+- [Python Program to separate even and odd numbers in a list](https://www.programminginpython.com/python-program-separate-even-odd-numbers-lists/)
+- [How to find Union of two lists in Python](https://www.programminginpython.com/find-union-two-lists-python/)
+- [Set Operations in Python](https://www.programminginpython.com/set-operations-python/)
+- [Python tuple operations – Add, Remove, Slice, Concat, Reverse](https://www.programminginpython.com/python-tuple-operations-add-remove-slice-concat-reverse/)
+- [Python program to merge or concatenate two lists](https://www.programminginpython.com/python-program-merge-concatenate-two-lists/)
+- [Python Dictionary and its operations](https://www.programminginpython.com/python-dictionary-operations/)
+- [Python Lists – Add, Append, Modify, Remove, Slice](https://www.programminginpython.com/python-lists-add-append-modify-remove-slice/)
+- [Python program to find the largest and smallest number in a list](https://www.programminginpython.com/python-program-largest-smallest-number-list/)
+- [Find the Biggest and Smallest of 3 numbers using lists in Python](https://www.programminginpython.com/python-biggest-smallest-3-numbers-lists/)
+- [Python program to calculate the sum of elements in a list](https://www.programminginpython.com/python-program-calculate-sum-elements-list/)
+## Databases
+- [How to perform MySQL database CRUD in Python](https://www.programminginpython.com/access-mysql-database-python/)
+## Dictionaries
+- [Python Dictionary and its operations](https://www.programminginpython.com/python-dictionary-operations/)
+## Files Handling
+- [How to perform File IO operations in Python](https://www.programminginpython.com/how-to-perform-file-io-operations-in-python/)
+## Letter Patterns
+- [Python Program to print pattern of letter Y](https://www.programminginpython.com/python-program-print-pattern-letter-y/)
+- [Python Program to print pattern of letter X](https://www.programminginpython.com/python-program-print-pattern-letter-x/)
+- [Python Program to print pattern of letter W](https://www.programminginpython.com/python-program-print-pattern-letter-w/)
+- [Python Program to print pattern of letter V](https://www.programminginpython.com/python-program-print-pattern-letter-v/)
+- [Python Program to print pattern of letter U](https://www.programminginpython.com/python-program-print-pattern-letter-u/)
+- [Python Program to print pattern of letter T](https://www.programminginpython.com/python-program-print-pattern-letter-t/)
+- [Python Program to print pattern of letter S](https://www.programminginpython.com/python-program-print-pattern-letter-s/)
+- [Python Program to print pattern of letter R](https://www.programminginpython.com/python-program-print-pattern-letter-r/)
+- [Python Program to print pattern of letter Q](https://www.programminginpython.com/python-program-print-pattern-letter-q/)
+- [Python Program to print pattern of letter P](https://www.programminginpython.com/python-program-print-pattern-letter-p/)
+- [Python Program to print pattern of letter O](https://www.programminginpython.com/python-program-print-pattern-letter-o/)
+- [Python Program to print pattern of letter N](https://www.programminginpython.com/python-program-print-pattern-letter-n/)
+- [Python Program to print pattern of letter Z](https://www.programminginpython.com/python-program-print-pattern-letter-z/)
+- [Python Program to print pattern of letter L](https://www.programminginpython.com/python-program-print-pattern-letter-l/)
+- [Python Program to print pattern of letter K](https://www.programminginpython.com/python-program-print-pattern-letter-k/)
+- [Python Program to print pattern of letter J](https://www.programminginpython.com/python-program-print-pattern-letter-j/)
+- [Python Program to print pattern of letter I](https://www.programminginpython.com/python-program-print-pattern-letter-i/)
+- [Python Program to print pattern of letter H](https://www.programminginpython.com/python-program-print-pattern-letter-h/)
+- [Python Program to print pattern of letter G](https://www.programminginpython.com/python-program-print-pattern-letter-g/)
+- [Python Program to print pattern of letter M](https://www.programminginpython.com/python-program-print-pattern-letter-m/)
+- [Python Program to print pattern of letter F](https://www.programminginpython.com/python-program-print-pattern-letter-f/)
+- [Python Program to print pattern of Letter E](https://www.programminginpython.com/python-program-print-pattern-letter-e/)
+- [Python Program to print pattern of Letter D](https://www.programminginpython.com/python-program-print-pattern-letter-d/)
+- [Python Program to print pattern of letter C](https://www.programminginpython.com/python-program-print-pattern-letter-c/)
+- [Python Program to print pattern of letter B](https://www.programminginpython.com/python-program-print-pattern-letter-b/)
+- [Python Program to print pattern of letter A](https://www.programminginpython.com/print-letter-a-pattern-python/)
+## Lists
+- [Python Program to separate even and odd numbers in a list](https://www.programminginpython.com/python-program-separate-even-odd-numbers-lists/)
+- [How to find Union of two lists in Python](https://www.programminginpython.com/find-union-two-lists-python/)
+- [Python program to merge or concatenate two lists](https://www.programminginpython.com/python-program-merge-concatenate-two-lists/)
+- [Python Lists – Add, Append, Modify, Remove, Slice](https://www.programminginpython.com/python-lists-add-append-modify-remove-slice/)
+- [Python program to find the largest and smallest number in a list](https://www.programminginpython.com/python-program-largest-smallest-number-list/)
+- [Find the Biggest and Smallest of 3 numbers using lists in Python](https://www.programminginpython.com/python-biggest-smallest-3-numbers-lists/)
+- [Python program to calculate the sum of elements in a list](https://www.programminginpython.com/python-program-calculate-sum-elements-list/)
+## Machine Learning
+- [Getting Started with Python Machine Learning: A Beginner’s Guide](https://www.programminginpython.com/getting-started-with-python-machine-learning-beginners-guide/)
+## Math Programs
+- [Find square root of a number using sqrt() function](https://www.programminginpython.com/find-square-root-using-sqrt-function/)
+- [Find square root of a number using exponential operation](https://www.programminginpython.com/find-square-root-number-exponential-operation/)
+- [Python Program to find the LCM of two numbers](https://www.programminginpython.com/lcm-two-numbers-python-program/)
+- [Python program to find a number is prime or composite](https://www.programminginpython.com/python-program-find-number-prime-composite/)
+- [Python program to find area of a triangle (given all sides)](https://www.programminginpython.com/python-program-find-area-of-triangle-all-sides/)
+- [Python program to find Factorial of a given number](https://www.programminginpython.com/python-program-find-factorial-number/)
+## Pattern Programming
+- [Python Program to print pattern of letter Z](https://www.programminginpython.com/python-program-print-pattern-letter-z/)
+- [Python Program to print pattern of letter Y](https://www.programminginpython.com/python-program-print-pattern-letter-y/)
+- [Python Program to print pattern of letter X](https://www.programminginpython.com/python-program-print-pattern-letter-x/)
+- [Python Program to print pattern of letter W](https://www.programminginpython.com/python-program-print-pattern-letter-w/)
+- [Python Program to print pattern of letter V](https://www.programminginpython.com/python-program-print-pattern-letter-v/)
+- [Python Program to print pattern of letter U](https://www.programminginpython.com/python-program-print-pattern-letter-u/)
+- [Python Program to print pattern of letter T](https://www.programminginpython.com/python-program-print-pattern-letter-t/)
+- [Python Program to print pattern of letter S](https://www.programminginpython.com/python-program-print-pattern-letter-s/)
+- [Python Program to print pattern of letter R](https://www.programminginpython.com/python-program-print-pattern-letter-r/)
+- [Python Program to print pattern of letter Q](https://www.programminginpython.com/python-program-print-pattern-letter-q/)
+- [Python Program to print pattern of letter P](https://www.programminginpython.com/python-program-print-pattern-letter-p/)
+- [Python Program to print pattern of letter O](https://www.programminginpython.com/python-program-print-pattern-letter-o/)
+- [Python Program to print pattern of letter N](https://www.programminginpython.com/python-program-print-pattern-letter-n/)
+- [Python Program to print pattern of letter M](https://www.programminginpython.com/python-program-print-pattern-letter-m/)
+- [Python Program to print pattern of letter L](https://www.programminginpython.com/python-program-print-pattern-letter-l/)
+- [Python Program to print pattern of letter K](https://www.programminginpython.com/python-program-print-pattern-letter-k/)
+- [Python Program to print pattern of letter J](https://www.programminginpython.com/python-program-print-pattern-letter-j/)
+- [Python Program to print pattern of letter I](https://www.programminginpython.com/python-program-print-pattern-letter-i/)
+- [Python Program to print pattern of letter H](https://www.programminginpython.com/python-program-print-pattern-letter-h/)
+- [Python Program to print pattern of letter G](https://www.programminginpython.com/python-program-print-pattern-letter-g/)
+- [Python Program to print pattern of letter F](https://www.programminginpython.com/python-program-print-pattern-letter-f/)
+- [Python Program to print pattern of Letter E](https://www.programminginpython.com/python-program-print-pattern-letter-e/)
+- [Python Program to print pattern of Letter D](https://www.programminginpython.com/python-program-print-pattern-letter-d/)
+- [Python Program to print pattern of letter C](https://www.programminginpython.com/python-program-print-pattern-letter-c/)
+- [Python Program to print pattern of letter B](https://www.programminginpython.com/python-program-print-pattern-letter-b/)
+- [Python Program to print pattern of letter A](https://www.programminginpython.com/print-letter-a-pattern-python/)
+- [Diamond Pattern in Python](https://www.programminginpython.com/diamond-pattern-python/)
+- [Reverse Pyramid Pattern in Python](https://www.programminginpython.com/reverse-pyramid-pattern-python/)
+- [Pyramid Pattern in Python](https://www.programminginpython.com/pyramid-pattern-python/)
+- [Floyds Triangle Pattern in Python](https://www.programminginpython.com/floyds-triangle-pattern-python/)
+- [Python program to print Fibonacci sequence](https://www.programminginpython.com/python-program-print-fibonacci-sequence/)
+## Python for Data Science
+- [10 Essential Python Libraries for Data Scientists](https://www.programminginpython.com/10-essential-python-libraries-data-scientist-should-know-about/)
+- [Numpy library in Python: A Comprehensive Guide with Examples](https://www.programminginpython.com/numpy-library-python-comprehensive-guide-examples/)
+## Python for Ethical Hacking
+- [Python Tools and Techniques for Ethical Hacking: A Comprehensive Guide](https://www.programminginpython.com/python-tools-and-techniques-for-ethical-hacking-comprehensive-guide/)
+- [Python for Ethical Hacking: Building Tools for Penetration Testing](https://www.programminginpython.com/python-for-ethical-hacking-building-tools-for-penetration-testing/)
+## Python For Finance
+- [Introduction to Financial Data Analysis with Python](https://www.programminginpython.com/financial-data-analysis-with-python-introduction/)
+- [Python for Finance: Analyzing Stock Market Data](https://www.programminginpython.com/analyzing-stock-market-data-python-for-finance/)
+## Python GUI
+- [How to create a Domain to IP converter in Python GUI using TKInter](https://www.programminginpython.com/how-to-create-domain-to-ip-converter-python-gui-tkinter/)
+- [Introduction to Python GUI – Labels, Frames, Buttons](https://www.programminginpython.com/intro-python-gui-labels-frames-buttons/)
+- [A simple python GUI calculator using TKInter](https://www.programminginpython.com/python-gui-calculator-using-tkinter/)
+- [How to create a temperature converter app in python GUI using TKInter](https://www.programminginpython.com/create-temperature-converter-app-python-gui-using-tkinter/)
+- [Layout Managers in Python GUI – Pack, Grid and Place](https://www.programminginpython.com/layout-managers-python-gui-pack-grid-place/)
+## Python OOP
+- [Python OOP Concepts: A Comprehensive Guide](https://www.programminginpython.com/python-oop-concepts/)
+## Python Tips and Tricks
+- [10 Tips and Tricks for Mastering Python Programming](https://www.programminginpython.com/python-programming-tips-tricks/)
+- [10 Tips for Writing Clean and Maintainable Python Code](https://www.programminginpython.com/writing-clean-maintainable-python-code/)
+- [PEP 8 Style Guide: The Definitive Guide to Python Coding Style](https://www.programminginpython.com/pep-8-style-guide-definitive-guide-python-coding-style/)
+- [Top 10 Python Courses on Udemy for Beginners and Professionals](https://www.programminginpython.com/top-10-python-courses-on-udemy-beginners-professionals/)
+- [Python Tools and Techniques for Ethical Hacking: A Comprehensive Guide](https://www.programminginpython.com/python-tools-and-techniques-for-ethical-hacking-comprehensive-guide/)
+- [Numpy library in Python: A Comprehensive Guide with Examples](https://www.programminginpython.com/numpy-library-python-comprehensive-guide-examples/)
+- [Mastering Python Decorators: A Comprehensive Guide](https://www.programminginpython.com/python-decorators-mastering-comprehensive-guide/)
+## Searching Algorithms
+- [Python program to implement Linear Search Algorithm](https://www.programminginpython.com/python-program-linear-search-algorithm/)
+- [Python program to implement Binary Search Algorithm](https://www.programminginpython.com/binary-search-algorithm-python/)
+## Sets
+- [Set Operations in Python](https://www.programminginpython.com/set-operations-python/)
+## Sorting Algorithms
+- [Selection Sort Algorithm in Python](https://www.programminginpython.com/selection-sort-algorithm-python/)
+- [Merge Sort Algorithm in Python](https://www.programminginpython.com/merge-sort-algorithm-python/)
+- [Insertion Sort algorithm in Python](https://www.programminginpython.com/insertion-sort-algorithm-python/)
+- [QuickSort Algorithm in Python](https://www.programminginpython.com/quicksort-algorithm-python/)
+- [Bubble Sort algorithm in Python](https://www.programminginpython.com/bubble-sort-algorithm-python/)
+- [Heap Sort Algorithm in Python](https://www.programminginpython.com/heap-sort-algorithm-python/)
+## Tuples
+- [Python tuple operations – Add, Remove, Slice, Concat, Reverse](https://www.programminginpython.com/python-tuple-operations-add-remove-slice-concat-reverse/)
